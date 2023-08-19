@@ -5,4 +5,11 @@
 2. After you have confirmed the slot type and other specifications of your ssd. Its time to purchase one.
 2.1 here some peronal recommendations:
 
-3. Now install the ssd into your laptop, very carefully. Get rid of any static charge by grounding yourself. or It may cause damage to your device and your new ssd
+3. Now install the ssd into your laptop, very carefully. Get rid of any static charge by grounding yourself. or It may cause damage to your device and your new ssd.
+
+4. now as you installed the ssd into your laptop, boot the device and go to disk management in windows.
+
+5. initialised the disk and format it in NTFS, if you want to tranfer your windows to it.
+
+6. Install a software like Minitool partition wizard or EasyUS to migrate the OS from HDD to SSD. I recommend not using Acrinos True Image 
+for this task, as it is horribly slow
